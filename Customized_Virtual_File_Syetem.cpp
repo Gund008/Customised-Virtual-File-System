@@ -363,7 +363,7 @@ void InitialiseSuperBlock()
 
 int CreateFile(char *name,int permission)   //(fname[],0777)
 {
-    int i=0;
+    int i=3;    //Rakhiv jaga
     PINODE temp=head;
 
     if((name==NULL) || (permission==0) || (permission  > 3))
