@@ -1041,6 +1041,7 @@ int main()
                 if(strcmp(command[0],"ls")==0)  
                 {
                     ls_file();
+                    continue;
                 }
 
                 else if(strcmp(command[0],"closeall")==0)
