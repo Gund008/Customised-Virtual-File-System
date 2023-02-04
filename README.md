@@ -1,13 +1,17 @@
-CUSTOMIZED VIRTUAL FILE SYSTEM
+                                                CUSTOMIZED VIRTUAL FILE SYSTEM
+         
+                                             PLATFORM REQUIRED :
+                                                
+                                             Window Platform or Linux Distributions.
 
-PLATFORM REQUIRED :
-Window Platform or Linux Distributions.
+                                             ARCHITECHTURAL REQUIREMENT :
+                                             
+                                             Intel 32 bit Processor or Higher.
 
-ARCHITECHTURAL REQUIREMENT :
-Intel 32 bit Processor or Higher.
+                                             USER INTERFACE :
+                                             
+                                             Command Line interface.
 
-USER INTERFACE :
-Command Line interface.
-
-TECHNOLOGY USED :
-System Programming using C.
+                                             TECHNOLOGY USED :
+                                             
+                                             System Programming using C.
